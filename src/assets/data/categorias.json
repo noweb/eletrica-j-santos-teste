@@ -1,0 +1,34 @@
+[
+    {
+        "categoryName": "LÂMPADAS",
+        "categoryPhoto": "src/assets/images/categorias/img_lampada.png"
+    },
+    {
+        "categoryName": "LUSTRES",
+        "categoryPhoto": "src/assets/images/categorias/img_lustre.png"
+    },
+    {
+        "categoryName": "LUMINÁRIAS",
+        "categoryPhoto": "src/assets/images/categorias/img_luminaria.png"
+    },
+    {
+        "categoryName": "DECORAÇÕES",
+        "categoryPhoto": "src/assets/images/categorias/img_decoracao.png"
+    },
+    {
+        "categoryName": "ACESSÓRIOS",
+        "categoryPhoto": "src/assets/images/categorias/img_acessorios.png"
+    },
+    {
+        "categoryName": "FERRAMENTAS",
+        "categoryPhoto": "src/assets/images/categorias/img_ferramenta.png"
+    },
+    {
+        "categoryName": "UTENSÍLIOS DOMÉSTICOS",
+        "categoryPhoto": "src/assets/images/categorias/img_utensilios.png"
+    },
+    {
+        "categoryName": "CABOS",
+        "categoryPhoto": "src/assets/images/categorias/img_cabos.png"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "categoryName": "Lustres",
+        "photo": "src/assets/images/destaques/img_lustre.png",
+        "productName": "Lustre suspenso rústico",
+        "price": "R$ 1500,00",
+        "discountedPrice": "R$ 1000,00",
+        "installment": "ou em 3x de R$ 333,33"
+    },
+    {
+        "categoryName": "Lâmpadas",
+        "photo": "src/assets/images/destaques/img_lampada.png",
+        "productName": "Lâmpada",
+        "price": "R$ 60,00",
+        "discountedPrice": "R$ 45,00",
+        "installment": "ou em 2x de R$ 22,50"
+    },
+    {
+        "categoryName": "Acessórios",
+        "photo": "src/assets/images/destaques/img_filtro_linha.png",
+        "productName": "Filtro de Linha",
+        "price": "R$ 25,00",
+        "discountedPrice": "R$ 17,00",
+        "installment": "⠀⠀⠀⠀⠀⠀⠀⠀⠀"
+    },
+    {
+        "categoryName": "Ferramentas",
+        "photo": "src/assets/images/destaques/img_ferramentas.png",
+        "productName": "Kit de ferramentas",
+        "price": "R$ 100,00",
+        "discountedPrice": "R$ 80,00",
+        "installment": "ou em 2x de R$ 40,00"
+    },
+    {
+        "categoryName": "Utensílios domésticos",
+        "photo": "src/assets/images/destaques/img_garfos.png",
+        "productName": "Garfos de mesa inox",
+        "price": "R$ 15,00",
+        "discountedPrice": "R$ 8,00",
+        "installment": "⠀⠀⠀⠀⠀⠀⠀⠀⠀"
+    },
+    {
+        "categoryName": "Acessórios",
+        "photo": "src/assets/images/destaques/img_chuveiro.png",
+        "productName": "Chuveiro elétrico",
+        "price": "R$ 120,00",
+        "discountedPrice": "R$ 100,00",
+        "installment": "ou em 4 x de R$ 25,00"
+    },
+    {
+        "categoryName": "Utensílios domésticos",
+        "photo": "src/assets/images/destaques/img_ventilador.png",
+        "productName": "Ventilador 2 em 1, mesa e parede",
+        "price": "R$ 50,00",
+        "discountedPrice": "R$ 30,00",
+        "installment": "⠀⠀⠀⠀⠀⠀⠀⠀⠀"
+    },
+    {
+        "categoryName": "Acessórios",
+        "photo": "src/assets/images/destaques/img_tomada.png",
+        "productName": "Espelho para tomada",
+        "price": "R$ 20,00",
+        "discountedPrice": "R$ 10,00",
+        "installment": "⠀⠀⠀⠀⠀⠀⠀⠀⠀"
+    }
+]
